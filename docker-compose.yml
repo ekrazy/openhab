@@ -18,4 +18,3 @@ services:
       
     environment:
       - CRYPTO_POLICY=unlimited
-      - EXTRA_JAVA_OPTS=${EXTRA_JAVA_OPTS} 
